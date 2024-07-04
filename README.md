@@ -10,26 +10,26 @@ Dynamic IT professional with experience in architecting and deploying resilient 
 
 ### Infrastructure as Code (IaC)
 - **Languages:** Bash, Python
-- **Tools:** Terraform, Terragrunt, Ansible, Puppet
+- **Tools:** Terraform, Terragrunt, OpenTofu, Ansible, Puppet
 
 ### Containers & Orchestrators
-- **Technologies:** Docker, containerd, Kubernetes (k8s), OpenShift, Glasskube
+- **Technologies:** Docker, containerd, podman, Kubernetes (k8s), k3s, OpenShift, Glasskube
 
 ### Version Control & CI/CD
-- **Platforms:** GitLab, GitHub, Bitbucket
-- **CI/CD Tools:** TeamCity, Jenkins, Argo-CD, Helm
-- **Registries:** DockerHub, Gitlab Registry, Nexus Registry
+- **Platforms:** GitLab, GitHub, Bitbucket + any Platforms
+- **CI/CD Tools:** TeamCity, Jenkins, Argo-CD, Github Actions, Helm + any Tools
+- **Registries:** DockerHub, Gitlab Registry, Nexus Registry + any private Registry
 
 ### Databases
-- **Relational Databases:** Oracle 12c, MS SQL Server, MySQL, MariaDB, PostgreSQL
+- **Relational Databases:** Oracle 12c, MS SQL Server, MySQL, MariaDB (+Galera), PostgreSQL (+Patroni)
 - **NoSQL Databases:** MongoDB
 
 ### Cloud Platforms
-- **Public Cloud:** AWS, GCP, Azure, Yandex
+- **Public Cloud:** AWS, GCP, Azure, Yandex, OVH cloud, Vultr
 - **Private Cloud:** Any Private Cloud
 
 ### Monitoring & Logging
-- **Tools:** Grafana, Zabbix, Prometheus, Graylog, uptime-kuma
+- **Tools:** Grafana, Zabbix, Prometheus, Graylog, kibana, fluent-bit, loki, uptime-kuma + any ELK
 
 ### Networking
 - **Devices:** Cisco, F5, Mikrotik, D-link, Huawei
@@ -37,9 +37,9 @@ Dynamic IT professional with experience in architecting and deploying resilient 
 ### Other
 - **Operating Systems:** Windows, Linux, macOS
 - **Messaging Systems:** Redis, Kafka, RabbitMQ, ZooKeeper
-- **Programming Languages:** Java, Node.js, Go
+- **Programming Languages:** Java, JS, GO + any
 - **Virtualization Platforms:** VMware ESXi, Hyper-V
-- **Project Management:** Jira
+- **Project Management:** Jira, Notion
 - **Methodology:** The Twelve-Factor App
 
 ## 🎓 Certificates
