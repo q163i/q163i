@@ -9,11 +9,12 @@ Dynamic IT professional with experience in architecting and deploying resilient 
 ## 🛠 Skills & Technologies
 
 ### Infrastructure as Code (IaC)
-- **Languages:** Bash, Python
+- **Languages:** Bash, Python, jinja2
 - **Tools:** Terraform, Terragrunt, OpenTofu, Ansible, Puppet
 
 ### Containers & Orchestrators
-- **Technologies:** Docker, containerd, podman, Kubernetes (k8s), k3s, OpenShift, Glasskube
+- **Technologies:** Docker, containerd, podman,
+Kubernetes (k8s+k3s), OpenShift, glasskube
 
 ### Version Control & CI/CD
 - **Platforms:** GitLab, GitHub, Bitbucket + any Platforms
@@ -22,7 +23,7 @@ Dynamic IT professional with experience in architecting and deploying resilient 
 
 ### Databases
 - **Relational Databases:** Oracle 12c, MS SQL Server, MySQL, MariaDB (+Galera), PostgreSQL (+Patroni)
-- **NoSQL Databases:** MongoDB
+- **NoSQL Databases:** MongoDB, noSQL
 
 ### Cloud Platforms
 - **Public Cloud:** AWS, GCP, Azure, Yandex, OVH cloud, Vultr
@@ -32,14 +33,15 @@ Dynamic IT professional with experience in architecting and deploying resilient 
 - **Tools:** Grafana, Zabbix, Prometheus, Graylog, kibana, fluent-bit, loki, uptime-kuma + any ELK
 
 ### Networking
-- **Devices:** Cisco, F5, Mikrotik, D-link, Huawei
+- **Devices:** Cisco, F5, Mikrotik, D-link, Huawei, Ingress, Edge, Egress
 
 ### Other
 - **Operating Systems:** Windows, Linux, macOS
 - **Messaging Systems:** Redis, Kafka, RabbitMQ, ZooKeeper
-- **Programming Languages:** Java, JS, GO + any
+- **Programming Languages:** Java, JS, GO + any other Languages :)
 - **Virtualization Platforms:** VMware ESXi, Hyper-V
 - **Project Management:** Jira, Notion
+- **Security:** Snyk, Trivy, Checkov
 - **Methodology:** The Twelve-Factor App
 
 ## 🎓 Certificates
