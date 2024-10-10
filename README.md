@@ -3,18 +3,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/q163i/)
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/q163i)
 
-Dynamic IT professional with experience in architecting and deploying resilient infrastructure and cutting-edge applications. Highly responsible and skilled in creating comprehensive IT ecosystems. Proficient in utilizing source control methodologies to identify and rectify coding discrepancies. Active participant in the Open Source community, contributing to communal projects. Known for effectively multitasking and dedicated to achieving maximum performance and reliability in IT environments.
-
+Experienced Senior DevOps Engineer with 9 years in disaster recovery, CI/CD pipelines, and team leadership. Dynamic and results-driven.
+“Exactly the engineer you need”
 
 ## 🛠 Skills & Technologies
-
 ### Infrastructure as Code (IaC)
 - **Languages:** Bash, Python, jinja2
 - **Tools:** Terraform, Terragrunt, OpenTofu, Ansible, Puppet
 
 ### Containers & Orchestrators
-- **Technologies:** Docker, containerd, podman,
-Kubernetes (k8s+k3s), OpenShift, glasskube
+- **Technologies:** Docker, containerd, podman, Kubernetes (k8s+k3s), OpenShift, glasskube
 
 ### Version Control & CI/CD
 - **Platforms:** GitLab, GitHub, Bitbucket + any Platforms
@@ -30,10 +28,10 @@ Kubernetes (k8s+k3s), OpenShift, glasskube
 - **Private Cloud:** Any Private Cloud
 
 ### Monitoring & Logging
-- **Tools:** Grafana, Zabbix, Prometheus, Graylog, kibana, fluent-bit, loki, uptime-kuma + any ELK
+- **Tools:** Grafana, Zabbix, Prometheus, Graylog, kibana, fluent-bit, loki, uptime-kuma + any ELK, Alertmanager, Opsgenie
 
 ### Networking
-- **Devices:** Cisco, F5, Mikrotik, D-link, Huawei, Ingress, Edge, Egress
+- **Devices:** Cisco, F5, Mikrotik, D-link, Huawei, Ingress, Edge, Egress, Consul, Traefik 
 
 ### Other
 - **Operating Systems:** Windows, Linux, macOS
@@ -45,7 +43,6 @@ Kubernetes (k8s+k3s), OpenShift, glasskube
 - **Methodology:** The Twelve-Factor App
 
 ## 🎓 Certificates
-
 - **Microsoft:** SQL Server Performance Tuning and Optimization
 - **Microsoft:** SQL Server AlwaysON
 - **Microsoft:** Windows Server Features
