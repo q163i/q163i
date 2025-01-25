@@ -3,8 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/q163i/)
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/q163i)
 
-Experienced Senior DevOps Engineer with 9 years in disaster recovery, CI/CD pipelines, and team leadership. Dynamic and results-driven.
-“Exactly the engineer you need”
+Experienced Senior of DevOps with 9 years of expertise in managing application lifecycle, cloud strategy, and migration processes. Demonstrates a strong track record in building and leading high-performing teams, establishing streamlined CI/CD processes, particularly within the GameDev industry. Skilled in designing scalable cloud services using Kubernetes and IaC, with a deep focus on implementing DevSecOps, FinOps, and GitOps strategies.
 
 ## 🛠 Skills & Technologies
 ### Infrastructure as Code (IaC)
@@ -56,7 +55,5 @@ Experienced Senior DevOps Engineer with 9 years in disaster recovery, CI/CD pipe
 - **AWS:** AWS Solutions Architect
 
 ---
-## 📈 GitHub Stats
-Thank you for visiting my GitHub profile! 
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+## 👨‍💻 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=q163i\&rank_icon=github)
