@@ -53,7 +53,3 @@ Experienced Senior of DevOps with 9 years of expertise in managing application l
 - **AWS:** Getting Started with DevOps
 - **AWS:** AWS Cloud Practitioner Essentials
 - **AWS:** AWS Solutions Architect
-
----
-## 👨‍💻 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=q163i\&rank_icon=github)
